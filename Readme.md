@@ -1,4 +1,4 @@
-#Curso Udemy Git e Githu
+#Curso Udemy Git e Github
 
 Arquivo de aula para teste
 
